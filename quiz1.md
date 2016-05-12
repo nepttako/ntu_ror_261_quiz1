@@ -29,8 +29,8 @@ hash 為雜湊，由Key & Value 所組合成，例如：{"cat" => "Dobby", "dog"
   ```
 
 5. 請列出兩種產出亂數的方法
-use shuffle or sample.
-For example: array.shuffle or array.sample.
+use shuffle.last or sample.
+For example: array.shuffle.last or array.sample.
 
 6. 請把 hoemowrk1 程式碼裡的裡面的使用者輸入兩個數字的方式和輸贏的判斷式改寫成 method
 https://github.com/nepttako/test/blob/master/homework2a.rb
